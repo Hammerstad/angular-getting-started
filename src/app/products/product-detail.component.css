@@ -1,3 +1,7 @@
 button#back-button {
     width: 80px;
 }
+
+img#product-image{
+    height: 200px;
+}
